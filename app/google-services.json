@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33388309947",
+    "project_id": "projemanag-59471",
+    "storage_bucket": "projemanag-59471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33388309947:android:1509097fc3f3abbd54289e",
+        "android_client_info": {
+          "package_name": "com.app.kot_projecmanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33388309947-una1tod1gqeiq3n51cq6qang8kl1c8m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsd8TW_zcpXfX9Ufya6MxKuuYRXP7eDsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33388309947-una1tod1gqeiq3n51cq6qang8kl1c8m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
